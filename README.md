@@ -1,6 +1,20 @@
 # O mnie
 (wiem że nie do tego służy github ale dzięki temu wszystko jest w jednym miejscu)
 
+<h2> Moje umiejętności: </h2>
+Szczeże mówiąc nie mam pojęcia jak opisać swoje umiejętności tym bardziej jeżeli chodzi o pythona bo to temat bez końca a też nie wiem na jakie konkretne umijętności zwracacie uwagę. Przygotowałem liste języków programowania które znam z krótkim opisem, aczkolwiek uważam że dużo lepiej moje umiejętności opisuje sekcja ksiązek poniżej.
+<br>
+<br>
+<ul>
+  <li><b>Python - </b> </li>
+  <li><b>C/C++ - </b> </li>
+  <li><b>C# - </b> </li>
+  <li><b>Java - </b> </li>
+  <li><b>Lua - </b> </li>
+  <li><b>PHP - </b> </li>
+</ul>
+<br>
+
 <h2>Przeczytane książki: </h2>
 
 <h4>1. Automatyzacja nudnych zadań z pythonem:</h4>
