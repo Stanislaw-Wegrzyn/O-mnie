@@ -13,7 +13,6 @@ Szczeże mówiąc nie mam pojęcia jak opisać swoje umiejętności tym bardziej
   <li><b>Lua - </b> </li>
   <li><b>PHP - </b> </li>
 </ul>
-<br>
 
 <h2>Przeczytane książki: </h2>
 
