@@ -46,8 +46,12 @@ Nie mam także problemu z samym programowaniem webowym front-endowym jak i back-
 <li>Obsługa Gita i Githuba na poziomie średnim</li>
 </ul>
 
+<h3>Konkursy:</h3>
+W poprzednim roku brałem udział w <b>Olimpiaszie Informatyczniej</b> i <b>Potyczkach algorytmicznych</b> organizowanych przez <b>MIMUW</b> oraz w 2 wydarzeniach od <b>Centrum Mistrzostwa Inforamtycznego</b>, nie udało mi się niestety przejść do następnych etapów aczkolwiek zdobyłem kilka punktów. We wszystkich tych konkursach był to mój pierwszy raz i nie przygotowywałem się do nich wogóle, natomiast juź zaczołemm się przygotowywać do następnej Olimpiady i tym razem nie zamierzam odpuścić.
+
+
 <h4><i>PS.</i></h4>
-Pierwszy raz robię coś takiego i jestem niemal pewien że coś pominołem dlatego uważam że dużo lepiej moje umiejętności opisuje sekcja moich lektur poniżej.
+Pierwszy raz robię coś takiego i jestem niemal pewien że coś pominołem dlatego uważam że dużo lepiej moje umiejętności opisuje sekcja moich lektur poniżej. Jeżeli brakuje mi jakiejś umijętności to proszę tylko o inforamcję i z chęcią się jej douczę.
 
 <h2>Przeczytane książki: </h2>
 
