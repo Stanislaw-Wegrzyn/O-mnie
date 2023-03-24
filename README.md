@@ -19,7 +19,7 @@ Nie mam problemu z programowaniem imperatywnym, funkcyjny jak i obiektowym w ka�
 <li>Wysyłanie i odbieranie zapytań http</li>
 <li>Framworki Flask i Django</li>
 <li>Obsługe bazy danych SQL i MongoDB</li>
-<li>Biblioteki numpy i pandas</li>
+<li>Biblioteki numpy, pandas, matplot czy opencv</li>
 </ul>
 
 <h3>Web Dev:</h3>
