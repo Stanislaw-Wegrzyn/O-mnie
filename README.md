@@ -2,9 +2,7 @@
 (wiem że nie do tego służy github ale dzięki temu wszystko jest w jednym miejscu)
 
 <h2> Moje umiejętności: </h2>
-Szczeże mówiąc nie mam pojęcia jak opisać swoje umiejętności tym bardziej jeżeli chodzi o pythona bo to temat bez końca a też nie wiem na jakie konkretne umijętności zwracacie uwagę. Przygotowałem liste języków programowania które znam z krótkim opisem, aczkolwiek uważam że dużo lepiej moje umiejętności opisuje sekcja ksiązek poniżej.
-<br>
-<br>
+<h4>Języki programowania które znam:</h4>
 <ul>
   <li><b>Python</b></li>
   <li><b>C/C++</b></li>
@@ -13,28 +11,43 @@ Szczeże mówiąc nie mam pojęcia jak opisać swoje umiejętności tym bardziej
   <li><b>Lua</b></li>
   <li><b>PHP</b></li>
 </ul>
+Nie mam problemu z programowaniem imperatywnym, funkcyjny jak i obiektowym w każdym z powyższych języków.
 
-Nie ma probelmu z progrmowaniem imperatywnym, funkcyjny jak i obiektowym w każdym z powyższych języków.
-<br>
-W pythonie potrafię zastosowac:
+<h4>W pythonie potrafię zastosowac:</h4>
 <ul>
-<li>Wszelkie aspekty prograowania obiektowego takie jak np.: dziedziczenie, polimorfizm, interfajsy czy abstrakcje</li>
+<li>Wszelkie aspekty programowania obiektowego takie jak np.: dziedziczenie, polimorfizm, interfajsy czy abstrakcje</li>
 <li>Wysyłanie i odbieranie zapytań http</li>
 <li>Framworki Flask i Django</li>
 <li>Obsługe bazy danych SQL i MongoDB</li>
 <li>Biblioteki numpy i pandas</li>
 </ul>
 
-<br><br>
-Nie mmam także problemu z samym programowaniem webowym front-endowym jak i back-endowym z zastosowaniem framworków pythonowych jak i bez nich.
-<br>
-Nie mam porblemu z:
+<h3>Web Dev:</h3>
+Nie mam także problemu z samym programowaniem webowym front-endowym jak i back-endowym z zastosowaniem framworków pythonowych jak i bez nich.
+
+<h4>Potrafię:</h4>
 <ul>
-<li>Obsłuą baz danych</li>
-<li>Zastosowaniem mehanik responsywnych (flexbox, grid i boodstrap)
-<li>Zastosowaniem jQuery i Reacta</li>
-<li>Podstawowymi atakimi jak: </li>
+<li>Obsługiwać bazy danych</li>
+<li>Zastosować mechanik responsywne (flexbox, grid i boodstrap)
+<li>Zastosować jQuery i React</li>
+<li>Podstawowe atakimi jak: XSS, JavaScript Injection czy SQL Injection</li>
+</ul>
+<h3>Znane mi środowiska programistyczne:</h3>
 <ul>
+<li>JetBrains</li>
+<li>Mincrosoft Visual Stutdio 2019 - 2022</li>
+<li>VS Code</li>
+</ul>
+
+<h3>Inne umiejętności:</h3>
+<ul>
+<li>Obsługa linuxa na poziomie średnim (używam na codzień Kali)</li>
+<li>Czytanie (i rozumienie) dokumentacji</li>
+<li>Obsługa Gita i Githuba na poziomie średnim</li>
+</ul>
+
+<h4><i>PS.</i></h4>
+Pierwszy raz robię coś takiego i jestem niemal pewien że coś pominołem dlatego uważam że dużo lepiej moje umiejętności opisuje sekcja moich lektur poniżej.
 
 <h2>Przeczytane książki: </h2>
 
