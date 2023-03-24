@@ -67,10 +67,6 @@ Pierwszy raz robię coś takiego i jestem niemal pewien że coś pominołem dlat
 
 ![alt](https://github.com/Stanislaw-Wegrzyn/O-mnie/blob/main/img/algbeztaj.jpg?raw=true)
 
-<h4>5. Kali Linux: </h4>
-
-![alt](https://github.com/Stanislaw-Wegrzyn/O-mnie/blob/main/img/kalilinux.jpg?raw=true)
-
 
 <h2>Aktualnie czytane książki: </h2>
 
