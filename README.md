@@ -6,13 +6,35 @@ Szczeże mówiąc nie mam pojęcia jak opisać swoje umiejętności tym bardziej
 <br>
 <br>
 <ul>
-  <li><b>Python - </b> </li>
-  <li><b>C/C++ - </b> </li>
-  <li><b>C# - </b> </li>
-  <li><b>Java - </b> </li>
-  <li><b>Lua - </b> </li>
-  <li><b>PHP - </b> </li>
+  <li><b>Python</b></li>
+  <li><b>C/C++</b></li>
+  <li><b>C#</b></li>
+  <li><b>Java</b></li>
+  <li><b>Lua</b></li>
+  <li><b>PHP</b></li>
 </ul>
+
+Nie ma probelmu z progrmowaniem imperatywnym, funkcyjny jak i obiektowym w każdym z powyższych języków.
+<br>
+W pythonie potrafię zastosowac:
+<ul>
+<li>Wszelkie aspekty prograowania obiektowego takie jak np.: dziedziczenie, polimorfizm, interfajsy czy abstrakcje</li>
+<li>Wysyłanie i odbieranie zapytań http</li>
+<li>Framworki Flask i Django</li>
+<li>Obsługe bazy danych SQL i MongoDB</li>
+<li>Biblioteki numpy i pandas</li>
+</ul>
+
+<br><br>
+Nie mmam także problemu z samym programowaniem webowym front-endowym jak i back-endowym z zastosowaniem framworków pythonowych jak i bez nich.
+<br>
+Nie mam porblemu z:
+<ul>
+<li>Obsłuą baz danych</li>
+<li>Zastosowaniem mehanik responsywnych (flexbox, grid i boodstrap)
+<li>Zastosowaniem jQuery i Reacta</li>
+<li>Podstawowymi atakimi jak: </li>
+<ul>
 
 <h2>Przeczytane książki: </h2>
 
