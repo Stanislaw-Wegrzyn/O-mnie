@@ -1,5 +1,4 @@
 # O mnie
-(wiem że nie do tego służy github ale dzięki temu wszystko jest w jednym miejscu)
 
 <h2> Moje umiejętności: </h2>
 <h4>Języki programowania które znam:</h4>
