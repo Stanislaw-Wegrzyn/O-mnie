@@ -17,7 +17,7 @@ Nie mam problemu z programowaniem imperatywnym, funkcyjny jak i obiektowym w ka�
 <li>Większość aspektów programowania obiektowego takie jak np.: dziedziczenie, polimorfizm, interfajsy czy abstrakcje</li>
 <li>Wysyłanie i odbieranie zapytań http</li>
 <li>Framworki Flask i Django</li>
-<li>Obsługe bazy danych SQL i MongoDB</li>
+<li>Obsługę bazy danych SQL i MongoDB</li>
 <li>Biblioteki numpy, pandas, matplot czy opencv</li>
 </ul>
 
@@ -31,10 +31,10 @@ Nie mam także problemu z samym programowaniem webowym front-endowym jak i back-
 <li>Zastosować jQuery i React</li>
 <li>Podstawowe atakimi jak: XSS, JavaScript Injection czy SQL Injection</li>
 </ul>
-<h3>Znane mi środowiska programistyczne:</h3>
+<h3>Stosowane przezemnie środowiska programistyczne:</h3>
 <ul>
 <li>JetBrains</li>
-<li>Mincrosoft Visual Stutdio 2019 - 2022</li>
+<li>Microsoft Visual Studio 2019 - 2022</li>
 <li>VS Code</li>
 </ul>
 
@@ -46,7 +46,7 @@ Nie mam także problemu z samym programowaniem webowym front-endowym jak i back-
 </ul>
 
 <h3>Konkursy:</h3>
-W poprzednim roku brałem udział w <b>Olimpiaszie Informatyczniej</b> i <b>Potyczkach algorytmicznych</b> organizowanych przez <b>MIMUW</b> oraz w 2 wydarzeniach od <b>Centrum Mistrzostwa Inforamtycznego</b>, nie udało mi się niestety przejść do następnych etapów aczkolwiek zdobyłem kilka punktów. We wszystkich tych konkursach był to mój pierwszy raz i nie przygotowywałem się do nich wogóle, natomiast juź zaczołemm się przygotowywać do następnej Olimpiady i tym razem nie zamierzam odpuścić.
+W poprzednim roku brałem udział w <b>Olimpiaszie Informatyczniej</b> i <b>Potyczkach algorytmicznych</b> organizowanych przez <b>MIMUW</b> oraz w 2 wydarzeniach od <b>Centrum Mistrzostwa Inforamtycznego</b>, nie udało mi się niestety przejść do następnych etapów aczkolwiek zdobyłem kilka punktów. We wszystkich tych konkursach był to mój pierwszy raz i nie przygotowywałem się do nich wogóle, natomiast już zaczołemm się przygotowywać do następnej Olimpiady i tym razem nie zamierzam odpuścić.
 
 
 <h4><i>PS.</i></h4>
