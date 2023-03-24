@@ -15,7 +15,7 @@ Nie mam problemu z programowaniem imperatywnym, funkcyjny jak i obiektowym w ka�
 
 <h4>W pythonie potrafię zastosowac:</h4>
 <ul>
-<li>Wszelkie aspekty programowania obiektowego takie jak np.: dziedziczenie, polimorfizm, interfajsy czy abstrakcje</li>
+<li>Większość aspektów programowania obiektowego takie jak np.: dziedziczenie, polimorfizm, interfajsy czy abstrakcje</li>
 <li>Wysyłanie i odbieranie zapytań http</li>
 <li>Framworki Flask i Django</li>
 <li>Obsługe bazy danych SQL i MongoDB</li>
