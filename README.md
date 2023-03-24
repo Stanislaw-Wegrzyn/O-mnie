@@ -12,7 +12,7 @@
 </ul>
 Nie mam problemu z programowaniem imperatywnym, funkcyjny jak i obiektowym w każdym z powyższych języków.
 
-<h4>W pythonie potrafię zastosowac:</h4>
+<h4>W pythonie potrafię zastosować:</h4>
 <ul>
 <li>Większość aspektów programowania obiektowego takie jak np.: dziedziczenie, polimorfizm, interfajsy czy abstrakcje</li>
 <li>Wysyłanie i odbieranie zapytań http</li>
