@@ -10,7 +10,7 @@
   <li><b>Lua</b></li>
   <li><b>PHP</b></li>
 </ul>
-Nie mam problemu z programowaniem imperatywnym, funkcyjny jak i obiektowym w każdym z powyższych języków.
+Mam doświadczenie z programowaniem imperatywnym, funkcyjny jak i obiektowym w każdym z powyższych języków.
 
 <h4>W pythonie potrafię zastosować:</h4>
 <ul>
