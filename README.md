@@ -22,7 +22,7 @@ Mam doświadczenie z programowaniem imperatywnym, funkcyjny jak i obiektowym w k
 </ul>
 
 <h3>Web Dev:</h3>
-Nie mam także problemu z samym programowaniem webowym front-endowym jak i back-endowym z zastosowaniem framworków pythonowych jak i bez nich.
+Mam także doswiadczenie z samym programowaniem webowym front-endowym jak i back-endowym z zastosowaniem framworków pythonowych jak i bez nich.
 
 <h4>Potrafię:</h4>
 <ul>
