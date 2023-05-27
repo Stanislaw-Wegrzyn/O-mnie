@@ -51,22 +51,18 @@ W poprzednim roku brałem udział w <b>Olimpiaszie Informatyczniej</b> i <b>Poty
 
 <h2>Przeczytane książki</h2>
 
-<b>
   <ul>
     <li>"Automatyzacja nudnych zadań z pythonem"</li>
     <li>"Kod pythona w jednym wierszu"</li>
     <li>"Algorytmy bez tajemnic"</li>
     <li>"Algorytmy bez tajemnic"</li>
   </ul>
-</b>
 
 
 <h2>Aktualnie czytane książki: </h2>
 
-<b>
   <ul>
     <li>"Mistrz czystego kodu"</li>
     <li>"Wprowadzenie do algorytmów"</li>
     <li>"Python machine Learning i deep learning"</li>
   </ul>
-</b>
