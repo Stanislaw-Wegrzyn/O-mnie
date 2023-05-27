@@ -49,24 +49,24 @@ Mam także doswiadczenie z samym programowaniem webowym front-endowym jak i back
 W poprzednim roku brałem udział w <b>Olimpiaszie Informatyczniej</b> i <b>Potyczkach algorytmicznych</b> organizowanych przez <b>MIMUW</b> oraz w 2 wydarzeniach od <b>Centrum Mistrzostwa Inforamtycznego</b>, nie udało mi się niestety przejść do następnych etapów aczkolwiek zdobyłem kilka punktów. We wszystkich tych konkursach był to mój pierwszy raz i nie przygotowywałem się do nich wogóle, natomiast już zaczołemm się przygotowywać do następnej Olimpiady i tym razem nie zamierzam odpuścić.
 
 
-<h4><i>PS.</i></h4>
-Pierwszy raz robię coś takiego i jestem niemal pewien że coś pominołem dlatego uważam że dużo lepiej moje umiejętności opisuje sekcja moich lektur poniżej. Jeżeli brakuje mi jakiejś umijętności to proszę tylko o inforamcję i z chęcią się jej douczę.
+<h2>Przeczytane książki</h2>
 
-<h2>Przeczytane książki: </h2>
-
-<h4>1. Automatyzacja nudnych zadań z pythonem:</h4>
-
-<h4>2. Kod pythona w jednym wierszu: </h4>
-
-<h4>3. Algorytmy bez tajemnic: </h4>
-
-<h4>4. Algorytmy bez tajemnic: </h4>
+<b>
+  <ul>
+    <li>"Automatyzacja nudnych zadań z pythonem"</li>
+    <li>"Kod pythona w jednym wierszu"</li>
+    <li>"Algorytmy bez tajemnic"</li>
+    <li>"Algorytmy bez tajemnic"</li>
+  </ul>
+</b>
 
 
 <h2>Aktualnie czytane książki: </h2>
 
-<h4>1. Mistrz czystego kodu: </h4>
-
-<h4>2. Wprowadzenie do algorytmów: </h4>
-
-<h4>3. Python machine Learning i deep learning: </h4>
+<b>
+  <ul>
+    <li>"Mistrz czystego kodu"</li>
+    <li>"Wprowadzenie do algorytmów"</li>
+    <li>"Python machine Learning i deep learning"</li>
+  </ul>
+</b>
